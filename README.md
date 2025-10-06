@@ -13,3 +13,8 @@ Data Structures and Algorithms implementations in Java for interview preparation
 ## Tech Stack
 - Java 8+
 - Problem-solving practice
+  
+## Usage
+```bash
+javac filename.java
+java filename
